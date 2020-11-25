@@ -1,0 +1,26 @@
+.debug [class*='col-']{
+  background-color: red;
+  height: 100px;
+  border:1px solid black;
+}
+.debug .h_500{
+  height: 500px;
+}
+/* header */
+header{
+  background-color: blue;
+}
+/* header */
+
+
+/* Re-usable colors */
+
+.green_one{
+  background-color: green;
+    border: 1px solid black;
+}
+
+.orange{
+  background-color: orange;
+  border: 1px solid black;
+}
