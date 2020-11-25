@@ -8,13 +8,23 @@
 }
 /* header */
 header{
-  background-color: blue;
+  background-color: lightgrey;
 }
 /* header */
 
 
 /* Re-usable colors */
+.white_title{
+  color: white;
+  font-size: 50px;
+}
+.wh_te{
+    color: white;
+}
 
+.h_700{
+  height: 700px;
+}
 .green_one{
   background-color: green;
     border: 1px solid black;
@@ -23,4 +33,14 @@ header{
 .orange{
   background-color: orange;
   border: 1px solid black;
+}
+
+.jumbotron{
+background-image: url('../img2/bg-home-1.jpg');
+background-repeat: no-repeat;
+background-size:auto;
+position: relative;
+
+
+
 }
