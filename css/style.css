@@ -14,6 +14,10 @@ header{
 
 
 /* Re-usable colors */
+.go_g-logo{
+  height: 30px;
+}
+
 .white_title{
   color: white;
   font-size: 50px;
@@ -49,6 +53,17 @@ color: blue;
 
 .h_700{
   height: 700px;
+}
+
+.h_600{
+  height: 325px;
+}
+
+
+
+.wh-te{
+  background-color: white;
+  border-radius: 30px;
 }
 .green_one{
   background-color: green;
