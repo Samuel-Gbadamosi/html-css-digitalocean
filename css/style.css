@@ -113,10 +113,20 @@ position: relative;
 }
 
 .sect_2{
-  height: 250px;
+  /* height: 250px; */
   background-color: #F3F5F9;
   position: relative;
   bottom: 29px;
+
+
+}
+
+
+.sect_3{
+  height: 400px;
+  background-color: purple;
+  /* position: relative;
+  bottom: 29px; */
 
 
 }
