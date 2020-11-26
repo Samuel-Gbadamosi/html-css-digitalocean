@@ -124,9 +124,27 @@ position: relative;
 
 .sect_3{
   height: 400px;
-  background-color: purple;
-  /* position: relative;
-  bottom: 29px; */
+  background-color: #F3F5F9;
+  position: relative;
+  bottom: 29px;
 
 
+}
+
+.sect_3 .row .deploy ul{
+
+  list-style: none;
+  height: 200px;
+  border: 2px solid lightgrey;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+  border-left: 13;
+  line-height: 3;
+  padding-left: 10px;
+}
+
+.deploy ul li {
+  display: block;
+  padding-left: 10px;
 }
