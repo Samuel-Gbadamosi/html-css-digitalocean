@@ -79,8 +79,13 @@ color: blue;
 background-image: url('../img2/bg-home-1.jpg');
 background-repeat: no-repeat;
 background-size:auto;
+background-position: bottom;
 position: relative;
 
+}
 
 
+.sect_1{
+  height: 300px;
+  background-color: purple;
 }
