@@ -123,7 +123,7 @@ position: relative;
 
 
 .sect_3{
-  height: 400px;
+  /* height: 600px; */
   background-color: #F3F5F9;
   position: relative;
   bottom: 29px;
@@ -144,7 +144,27 @@ position: relative;
   padding-left: 10px;
 }
 
+.deploy_ments{
+  line-height: 2;
+}
+
 .deploy ul li {
   display: block;
   padding-left: 10px;
+}
+
+
+.sect_4{
+  height: 900px;
+  background-color: #F3F5F9;
+  position: relative;
+  bottom: 29px;
+}
+.desig_ner{
+  padding-bottom: 40px;
+}
+
+.screen_1{
+  /* height: 300px; */
+  width: 100%;
 }
