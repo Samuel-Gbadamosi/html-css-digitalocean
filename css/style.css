@@ -1,138 +1,134 @@
-.debug [class*='col-']{
+.debug [class*='col-'] {
   background-color: red;
   height: 100px;
-  border:1px solid black;
+  border: 1px solid black;
 }
-.debug .h_500{
+
+.debug .h_500 {
   height: 500px;
 }
+
 /* header */
-header{
+header {
   background-color: white;
 }
+
 /* header */
-
-
 /* Re-usable colors */
-.sect_1 .row .row img{
+.sect_1 .row .row img {
   height: 60px;
   width: 100%;
 }
-.logos_sect{
+
+.logos_sect {
   /* height: 50px; */
 }
-.go_g-logo{
+
+.go_g-logo {
   /* height: 30px; */
 }
 
-.white_title{
+.white_title {
   color: white;
   font-size: 50px;
 }
-.bg_t{
+
+.bg_t {
   background-color: #F3F5F9;
-
-}
-.wh_te{
-    color: white;
-}
-.lig_grey{
-  color:#5B6987;
 }
 
-ul li{
+.wh_te {
+  color: white;
+}
+
+.lig_grey {
+  color: #5B6987;
+}
+
+ul li {
   list-style: none;
   display: inline-block;
 }
 
-.list li{
+.list li {
   padding: 5px 5px;
-
 }
 
-.p_top{
+.p_top {
   padding: 3px;
 }
 
-.blue{
-color: blue;
-  border:1px solid blue;
+.blue {
+  color: blue;
+  border: 1px solid blue;
 }
 
-
-.logo{
+.logo {
   /* height: 60px; */
   width: 50%;
 }
 
-.h_700{
+.h_700 {
   height: 700px;
 }
 
-.h_600{
+.h_600 {
   height: 325px;
 }
 
-
-
-.wh-te{
+.wh-te {
   background-color: white;
   border-radius: 30px;
 }
-.green_one{
+
+.green_one {
   background-color: green;
-    border: 1px solid black;
+  border: 1px solid black;
 }
 
-.orange{
+.orange {
   background-color: orange;
   border: 1px solid black;
 }
 
-.jumbotron{
-background-image: url('../img2/bg-home-1.jpg');
-background-repeat: no-repeat;
-background-size:auto;
-background-position: bottom;
-position: relative;
-
+.jumbotron {
+  background-image: url('../img2/bg-home-1.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: bottom;
+  position: relative;
 }
 
-.drk_blue{
-  color:#031B4E;
-}
-.p_f{
-  color:#5B6987;
+.drk_blue {
+  color: #031B4E;
 }
 
-.sect_1{
+.p_f {
+  color: #5B6987;
+}
+
+.sect_1 {
   /* height: 400px; */
   background-color: #F3F5F9;
   position: relative;
   bottom: 29px;
 }
 
-.sect_2{
+.sect_2 {
   height: 250px;
   background-color: #F3F5F9;
   position: relative;
   bottom: 29px;
-
-
 }
 
-
-.sect_3{
+.sect_3 {
   /* height: 600px; */
   background-color: #F3F5F9;
   position: relative;
   bottom: 29px;
-
-
 }
 
-.sect_3 .row .deploy ul{
-
+.sect_3 .row .deploy ul {
   list-style: none;
   height: 200px;
   border: 2px solid lightgrey;
@@ -144,7 +140,7 @@ position: relative;
   padding-left: 10px;
 }
 
-.deploy_ments{
+.deploy_ments {
   line-height: 2;
 }
 
@@ -153,106 +149,136 @@ position: relative;
   padding-left: 10px;
 }
 
-
-.sect_4{
+.sect_4 {
   /* height: 900px; */
   background-color: #F3F5F9;
   position: relative;
   bottom: 29px;
 }
-.desig_ner{
+
+.desig_ner {
   padding-bottom: 40px;
 }
 
-.screen_1{
+.screen_1 {
   /* height: 300px; */
   width: 100%;
 }
 
-.sect_5{
+.sect_5 {
   /* height: 900px; */
-  background-color:  #F3F5F9;
+  background-color: #F3F5F9;
   position: relative;
   bottom: 29px;
-
 }
 
-.sect_6{
+.sect_6 {
   /* height: 600px; */
-  background-color:  blue;
+  background-color: blue;
   position: relative;
   bottom: 29px;
   padding-bottom: 20px;
-
 }
+
 /* flights */
-.flights{
+.flights {
   width: 100%;
   /* height: 60px; */
   border: 2px solid white;
   border-top: none;
   border-left: none;
   border-left: none;
-  border-right:none;
+  border-right: none;
   /* padding-top: 5px; */
 }
-.row .flights p a{
+
+.row .flights p a {
   float: right;
 }
-.service{
+
+.service {
   font-size: 40px;
   padding-bottom: 10px;
 }
-.pp_top{
+
+.pp_top {
   padding-top: 50px;
   padding-left: 20px;
 }
 
-
-
-.settt{
+.settt {
   /* padding-top: 95px; */
   margin-top: 50px;
-
-
 }
 
-.sect_7{
+.sect_7 {
   height: 450px;
   background-color: #F3F5F9;
   position: relative;
   bottom: 29px;
 }
 
-.rock_box{
+.rock_box {
   height: 220px;
   background-color: white;
-margin-top: 20px;
+  margin-top: 20px;
 }
 
-.rock_st{
+.rock_st {
   height: 60px;
   padding-top: 10px;
 }
-.tech{
+
+.tech {
   padding-top: 10px;
   font-size: 20px;
 }
-.emo_font{
+
+.emo_font {
   padding-top: 20px;
   margin-left: -56px;
 }
 
-.sect_8{
+.sect_8 {
   height: 250px;
-  background-color: #004EFB;
+  background-color: #0055FB;
   margin-top: -30px;
 }
 
-.de_lop{
+.de_lop {
   font-size: 40px;
 }
 
-.star_ter{
+.star_ter {
   padding-top: 30px;
+}
+
+footer {
+  /* height: 900px; */
+  background-color: #010E28;
+  color: white;
+  line-height: 22px;
+  padding-top: 30px;
+}
+
+.loggo {
+  margin-top: 30px;
+  padding-bottom: 10px;
+}
+
+.joll_f ul {
+  margin-left: -41px;
+}
+
+.joll_f li {
+  padding: 5px;
+  font-size: 20px;
+}
+
+.stage_list li {
+  display: block;
+}
+
+.c_details li {
+  display: block;
 }
