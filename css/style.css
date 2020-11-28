@@ -19,10 +19,10 @@ header{
   width: 100%;
 }
 .logos_sect{
-  height: 50px;
+  /* height: 50px; */
 }
 .go_g-logo{
-  height: 30px;
+  /* height: 30px; */
 }
 
 .white_title{
@@ -113,7 +113,7 @@ position: relative;
 }
 
 .sect_2{
-  /* height: 250px; */
+  height: 250px;
   background-color: #F3F5F9;
   position: relative;
   bottom: 29px;
@@ -178,10 +178,11 @@ position: relative;
 }
 
 .sect_6{
-  height: 700px;
+  /* height: 600px; */
   background-color:  blue;
   position: relative;
   bottom: 29px;
+  padding-bottom: 20px;
 
 }
 /* flights */
@@ -214,4 +215,44 @@ position: relative;
   margin-top: 50px;
 
 
+}
+
+.sect_7{
+  height: 450px;
+  background-color: #F3F5F9;
+  position: relative;
+  bottom: 29px;
+}
+
+.rock_box{
+  height: 220px;
+  background-color: white;
+margin-top: 20px;
+}
+
+.rock_st{
+  height: 60px;
+  padding-top: 10px;
+}
+.tech{
+  padding-top: 10px;
+  font-size: 20px;
+}
+.emo_font{
+  padding-top: 20px;
+  margin-left: -56px;
+}
+
+.sect_8{
+  height: 250px;
+  background-color: #004EFB;
+  margin-top: -30px;
+}
+
+.de_lop{
+  font-size: 40px;
+}
+
+.star_ter{
+  padding-top: 30px;
 }
